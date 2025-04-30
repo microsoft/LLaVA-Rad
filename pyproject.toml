@@ -15,7 +15,7 @@ classifiers = [
 dependencies = [
     "einops",
     "fastapi",
-    "gradio==3.35.2",
+    "gradio==5.11.0",
     "markdown2[all]",
     "numpy==1.26.0",
     "requests",
