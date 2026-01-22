@@ -33,7 +33,7 @@ dependencies = [
     "accelerate==0.21.0",
     "bitsandbytes==0.41.0",
     "scikit-learn==1.2.2",
-    "sentencepiece==0.1.99",
+    "sentencepiece==0.2.1",
     "einops==0.6.1",
     "einops-exts==0.0.4",
     "gradio_client==0.2.9",
